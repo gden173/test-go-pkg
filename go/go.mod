@@ -1,3 +1,3 @@
-module github.com/go-test-pkg
+module github.com/funcs
 
 go 1.19
